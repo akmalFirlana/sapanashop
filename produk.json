@@ -1,0 +1,23 @@
+[
+    {
+        "nama_produk": "No. 17 magic ajaib",
+        "harga_asli": 100000,
+        "harga_diskon": 90000,
+        "url_gambar": "https://via.placeholder.com/50",
+        "link_produk": "https://www.google.com/search?q=No.+17+magic+ajaib"
+    },
+    {
+        "nama_produk": "Produk Hebat 01",
+        "harga_asli": 150000,
+        "harga_diskon": 120000,
+        "url_gambar": "https://via.placeholder.com/50",
+        "link_produk": "https://www.google.com/search?q=Produk+Hebat+01"
+    },
+    {
+        "nama_produk": "Alat Canggih Pro",
+        "harga_asli": 500000,
+        "harga_diskon": 450000,
+        "url_gambar": "https://via.placeholder.com/50",
+        "link_produk": "https://www.google.com/search?q=Alat+Canggih+Pro"
+    }
+]
