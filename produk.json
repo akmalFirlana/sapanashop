@@ -1,23 +1,72 @@
 [
     {
-        "nama_produk": "No. 17 magic ajaib",
-        "harga_asli": 100000,
-        "harga_diskon": 90000,
-        "url_gambar": "https://via.placeholder.com/50",
-        "link_produk": "https://www.google.com/search?q=No.+17+magic+ajaib"
+        "nama_produk": "No. 1 Tuttoo bantal leher boneka lucu u-shape",
+        "harga_asli": 159800,
+        "harga_diskon": 94810,
+        "url_gambar": "image/produk/p1.webp",
+        "link_produk": "https://s.shopee.co.id/9Ulc0LpTvO"
     },
     {
-        "nama_produk": "Produk Hebat 01",
-        "harga_asli": 150000,
-        "harga_diskon": 120000,
-        "url_gambar": "https://via.placeholder.com/50",
-        "link_produk": "https://www.google.com/search?q=Produk+Hebat+01"
+        "nama_produk": "No. 2 Tuttoo bantal leher travel 2 in 1",
+        "harga_asli": 220000,
+        "harga_diskon": 78945,
+        "url_gambar": "image/produk/p2.webp",
+        "link_produk": "https://s.shopee.co.id/4Ak5eW1rWy"
     },
     {
-        "nama_produk": "Alat Canggih Pro",
-        "harga_asli": 500000,
-        "harga_diskon": 450000,
-        "url_gambar": "https://via.placeholder.com/50",
-        "link_produk": "https://www.google.com/search?q=Alat+Canggih+Pro"
+        "nama_produk": "No. 3 Blender Press Manual Multifungsi ",
+        "harga_asli": 31000,
+        "harga_diskon": 28125,
+        "url_gambar": "image/produk/p3.webp",
+        "link_produk": "https://s.shopee.co.id/LXN5mDWYO"
+    },
+    {
+        "nama_produk": "No. 4 Blender capsule mini serbaguna",
+        "harga_asli": 145000,
+        "harga_diskon": 51990,
+        "url_gambar": "image/produk/p4.webp",
+        "link_produk": "https://s.shopee.co.id/3ArYT6qqP6"
+    },
+    {
+        "nama_produk": "No. 5 peeler tabung pengupas kulit wortel",
+        "harga_asli": 10999,
+        "harga_diskon": 6498,
+        "url_gambar": "image/produk/p5.webp",
+        "link_produk": "https://s.shopee.co.id/AKKj0WEYJE"
+    },
+    {
+        "nama_produk": "No. 6 garlic presser penghancur bawang",
+        "harga_asli": 6.000,
+        "harga_diskon": 5.499,
+        "url_gambar": "image/produk/p6.webp",
+        "link_produk": "https://s.shopee.co.id/1qMAt14dG4"
+    },
+    {
+        "nama_produk": "No. 7 COLUMBIA Parutan serbaguna 16 in 1",
+        "harga_asli": 177.000,
+        "harga_diskon": 94.999,
+        "url_gambar": "image/produk/p7.webp",
+        "link_produk": "https://s.shopee.co.id/1g2kgypbHP"
+    },
+    {
+        "nama_produk": "No. 8 Yibu Parutan putar 3 in 1 multifungsi ",
+        "harga_asli": 135.800,
+        "harga_diskon": 67.800,
+        "url_gambar": "image/produk/p8.webp",
+        "link_produk": "https://s.shopee.co.id/40QfUbZ2Px"
+    },
+    {
+        "nama_produk": "No. 9 sikat dispenser 2 in 1",
+        "harga_asli": 9.888,
+        "harga_diskon": 5.500,
+        "url_gambar": "image/produk/p9.webp",
+        "link_produk": "https://s.shopee.co.id/7zwoGCIUiq"
+    },
+    {
+        "nama_produk": "No. 10 GOOJODOQ Kipas turbo portable ",
+        "harga_asli": 550.000,
+        "harga_diskon": 181.300,
+        "url_gambar": "image/produk/p10.webp",
+        "link_produk": "https://s.shopee.co.id/9KSERJaxOK"
     }
 ]
